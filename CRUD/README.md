@@ -10,9 +10,9 @@ Steps:
 6.Install Promises using ```cmd``` : ```npm install Promises``` 
 
 7. Initiate the below servers:
-<br/>
+
 ```mongodb``` using ```cmd``` : ```mongod``` from anywhere if you've installed MongoDB globally
-<br/>
+
 ```NodeJS``` using ```cmd``` : ```node index.js``` from project folder 
 
 <------------- You should be good to go! ---------------->
